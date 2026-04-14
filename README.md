@@ -37,7 +37,7 @@ Santa Efigênia: Região hospitalar com alta necessidade de giro de vagas; o das
 Buritis & Barreiro: Representam polos de descentralização, com o Barreiro registrando 14.445 vagas, mostrando a expansão do sistema para as áreas regionais.
 
 
-![Preview Mobile](assets/burritis.png)
+![Preview Mobile](assets/buritis.png)
 
 ![Preview Mobile](assets/barreiro.png)
 
